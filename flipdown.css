@@ -3,6 +3,7 @@
 /********** Theme: dark **********/
 /* Font styles */
 .flipdown.flipdown__theme-dark {
+  font-size: 1.56rem;
   font-family: sans-serif;
   font-weight: bold;
 }
